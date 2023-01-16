@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://13.56.179.93:8081/repository/nodejs_project/"
+    "registry": "http://35.182.246.187:8081/repository/nodejs_project/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/acadalearning/nodejs-application"
+    "url": "https://github.com/sammybrandy/nodejs-application"
   },
   "keywords": [
     "node",
